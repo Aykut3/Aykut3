@@ -1,4 +1,4 @@
-https://i2.milimaj.com/i/milliyet/75/1200x675/6176292e45d2a0a1041b5eb3.jpg
+[![MasterHead]https://i2.milimaj.com/i/milliyet/75/1200x675/6176292e45d2a0a1041b5eb3.jpg
 <h1 align="center">Hi 👋, I'm Aykut3</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
