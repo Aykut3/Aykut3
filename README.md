@@ -1,4 +1,4 @@
-<(https://www.shutterstock.com/tr/image-phoh1 align="center">Hi 👋, I'm Aykut3</h1>
+<Hi 👋, I'm Aykut3</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
