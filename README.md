@@ -1,5 +1,4 @@
-[
-](https://www.iakademi.com/wp-content/uploads/2023/02/en-iyi-yazilim-programlari-1170x500.jpg)
+(https://www.iakademi.com/wp-content/uploads/2023/02/en-iyi-yazilim-programlari-1170x500.jpg)
 <h1 align="center">Hi 👋, I'm Aykut3</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
