@@ -1,7 +1,7 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGKM_t8a7v5a4gUTEtbd5DtwwviUUMWn0Yw&usqp=CAU)
 <br>
 Hi 👋, I'm Aykut3.
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A Passionate Frontend Developer from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
