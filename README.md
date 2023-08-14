@@ -1,5 +1,6 @@
 ![MasterHead](https://saltares.com/img/hacker-typer.gif)
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGKM_t8a7v5a4gUTEtbd5DtwwviUUMWn0Yw&usqp=CAU) ![MasterHead](https://gifdb.com/images/thumbnail/hacker-coding-numbers-ytdxub7oi7mvjfw7.gif)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images-shrink_350_140?q=tbn:ANd9GcSGGKM_t8a7v5a4gUTEtbd5DtwwviUUMWn0Yw&usqp=CAU)
+![MasterHead](https://gifdb.com/images/thumbnail/hacker-coding-numbers-ytdxub7oi7mvjfw7.gif)
 <br>
 
 <h1 align="center">Hi 👋, I'm Aykut3</h1>
