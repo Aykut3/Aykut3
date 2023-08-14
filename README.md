@@ -1,10 +1,9 @@
 ![MasterHead](https://saltares.com/img/hacker-typer.gif)
 <br>
-![MasterHead](https://encrypted-tbn0.gstatic.com/images-shrink_350_140?q=tbn:ANd9GcSGGKM_t8a7v5a4gUTEtbd5DtwwviUUMWn0Yw&usqp=CAU)
-<br>
 ![MasterHead](https://gifdb.com/images/thumbnail/hacker-coding-numbers-ytdxub7oi7mvjfw7.gif)
 <br>
-
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGKM_t8a7v5a4gUTEtbd5DtwwviUUMWn0Yw&usqp=CAU)
+<br>
 <h1 align="center">Hi 👋, I'm Aykut3</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
